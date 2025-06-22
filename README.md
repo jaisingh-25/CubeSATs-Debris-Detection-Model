@@ -1,3 +1,3 @@
-# CubeSATs-Debris-Detection-Model
+# CubeSATs-Debris-Detection-AI-Model
 Under Progress, will update soon enough :)  
 Still ongoing...
